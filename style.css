@@ -1,0 +1,40 @@
+body {
+  font-family: monospace;
+  text-align: center;
+  background-color: black;
+  color: #e61b4c;
+}
+h3 {
+
+
+}
+
+
+{
+  background: #c28b8b;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+a{
+  align-items: stretch;
+  background-color :black;
+  color:#f6ecec;
+  border-style:solid;
+  border-color:#f42248;
+  border-radius: 15px;
+  padding:7px;
+  text-decoration: none;
+  
+}
+img {
+  float: right;
+  height: 300px;
+  margin: 10px;
+  border-color: black;
+  border-width: 4px;
+  border-style: double;
+  border-radius: 20px}
